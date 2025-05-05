@@ -1,0 +1,9 @@
+{
+	"name": "facttablesql",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3adc0609-82e6-41cb-9a4d-57bed4d10525",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
